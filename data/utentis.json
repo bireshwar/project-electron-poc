@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "5f5ab99ac0b90d0017828dcd"
+  },
+  "countSnippets": 55,
+  "countGroup": 7,
+  "countSize": 0.092118,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 5,
+  "skills": [
+    [
+      "NODE.JS",
+      "VUE.JS",
+      "C#",
+      "SQL"
+    ]
+  ],
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "email": "fabio.vianello@irin.it",
+  "emailCommunications": "fabio.vianello@irin.it",
+  "fbid": "10220962139230441",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "data": {
+    "$date": "2020-09-10T23:41:14.472Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-10T23:41:14Z"
+  },
+  "__v": 0,
+  "cellulare": "",
+  "cityLive": "",
+  "companyAddress": "",
+  "companyName": "",
+  "companyType": null,
+  "country": "Italy",
+  "countryLive": "",
+  "dateBirth": "",
+  "fiscalCode": "",
+  "job": [
+    "SEO"
+  ],
+  "languages": "IT",
+  "sdiCode": "",
+  "talkMe": "",
+  "vat": "",
+  "userGroupInvitation": "5f66e2c358933b0017779c9f"
+},{
+  "_id": {
+    "$oid": "5f5abeaec0b90d0017828dd1"
+  },
+  "countSnippets": 11,
+  "countGroup": 1,
+  "countSize": 0,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 3,
+  "skills": [],
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "email": "fabio.vianello@fegre.com",
+  "emailCommunications": "fabio.vianello@fegre.com",
+  "cellulare": "3384924502",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1600869626721_1600869626720.png",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "country": "Italy",
+  "data": {
+    "$date": "2020-09-11T00:02:54.612Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-11T00:02:54Z"
+  },
+  "__v": 0,
+  "userGroupInvitation": "5f5f23cbfbb10000171df8de"
+},{
+  "_id": {
+    "$oid": "5f5b2398c0b90d0017828dd9"
+  },
+  "countSnippets": 2,
+  "countGroup": 2,
+  "countSize": 0,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 0,
+  "skills": [
+    "Cancella questo skill"
+  ],
+  "nome": "Daniela",
+  "cognome": "Parpinel",
+  "email": "danielaparpinel@yahoo.it",
+  "emailCommunications": "danielaparpinel@yahoo.it",
+  "fbid": "10216819849754031",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599808646468_1599808646466.png",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "data": {
+    "$date": "2020-09-11T07:13:28.098Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-11T07:13:28Z"
+  },
+  "__v": 0,
+  "cellulare": "",
+  "cityLive": "",
+  "companyAddress": "",
+  "companyName": "",
+  "companyType": null,
+  "country": "Italy",
+  "countryLive": "",
+  "dateBirth": "",
+  "fiscalCode": "",
+  "job": [
+    null
+  ],
+  "languages": "IT",
+  "sdiCode": "",
+  "talkMe": "",
+  "vat": "",
+  "userGroupInvitation": "5f66e2c358933b0017779c9f"
+},{
+  "_id": {
+    "$oid": "5f6c7467d8cf3c00176fd34e"
+  },
+  "countSnippets": 0,
+  "countGroup": 0,
+  "countSize": 0,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 0,
+  "skills": [],
+  "nome": "Bireshwar",
+  "cognome": "Goswami",
+  "email": "bireshwar.goswami@gmail.com",
+  "emailCommunications": "bireshwar.goswami@gmail.com",
+  "cellulare": "08013788399",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "country": "India",
+  "data": {
+    "$date": "2020-09-24T10:26:47.271Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-24T10:26:47Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6ce9e4d8cf3c00176fd352"
+  },
+  "countSnippets": 0,
+  "countGroup": 0,
+  "countSize": 0,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 0,
+  "skills": [],
+  "nome": "Bireshwar",
+  "cognome": "Goswami",
+  "email": "bireshwar1990@gmail.com",
+  "emailCommunications": "bireshwar1990@gmail.com",
+  "fbid": "3969664989716598",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "data": {
+    "$date": "2020-09-24T18:48:04.837Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-24T18:48:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f42c8bd6b4f0017e65efd"
+  },
+  "countSnippets": 0,
+  "countGroup": 0,
+  "countSize": 0,
+  "countSizeDownload": 0,
+  "enterpriseGroup": 0,
+  "skills": [],
+  "nome": "Wosnic",
+  "cognome": "Wosnic",
+  "email": "fabio@wosnic.com",
+  "emailCommunications": "fabio@wosnic.com",
+  "fbid": "113944480303331",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "sizeAvailable": 500,
+  "snippetAvailable": 250,
+  "data": {
+    "$date": "2020-09-26T13:31:52.607Z"
+  },
+  "resetPasswordExpires": {
+    "$date": "2020-09-26T13:31:52Z"
+  },
+  "__v": 0
+}]

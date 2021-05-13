@@ -1,0 +1,23 @@
+POST http://localhost:7000/api/login
+
+Content-Type: application/json
+
+{
+	"email"     : "fabio.vianello@fegre.com",
+	"password"  : "wosnic2019$"
+}
+
+###
+POST http://localhost:7000/api/files/upload/L2QH8HQBzPqr0HzpuCDd
+
+Content-Type: application/json
+
+{
+	"email"     : "fabio.vianello@fegre.com",
+	"password"  : "wosnic2019$"
+}
+
+// 82Ne73QBzPqr0Hzpp5QN
+// -mNj73QBzPqr0Hzpe5hi
+// DmQH8HQBzPqr0HzplyBl
+// L2QH8HQBzPqr0HzpuCDd

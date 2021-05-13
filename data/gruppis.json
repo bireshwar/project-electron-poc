@@ -1,0 +1,561 @@
+[{
+  "_id": {
+    "$oid": "5f5ab9b4c0b90d0017828dce"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "fabio.vianello@irin.it",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/sfondoMobile.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5aba49c0b90d0017828dd0"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Wosnic bug",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600288609988_1600288609987.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Bug",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5abeb2c0b90d0017828dd2"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "fabio.vianello@fegre.com",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/sfondoMobile.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b2399c0b90d0017828ddb"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5b2398c0b90d0017828dd9"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f5b2398c0b90d0017828dd9",
+  "nome": "Daniela",
+  "cognome": "Parpinel",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "danielaparpinel@yahoo.it",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/sfondoMobile.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b282cc0b90d0017828ddd"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Mindware",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600288733308_1600288733308.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Lavorazioni",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b4310c0b90d0017828de7"
+  },
+  "delete": true,
+  "uGroup": [],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Baldinelli",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Varie",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f1a2afbb10000171df8cc"
+  },
+  "delete": true,
+  "uGroup": [],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Emtion",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Cliente",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f1a6ffbb10000171df8cd"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Emotion",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600288842628_1600288842627.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Cliente",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f21b8fbb10000171df8db"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5b2398c0b90d0017828dd9",
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5ab99ac0b90d0017828dcd",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5ab99ac0b90d0017828dcd",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "Family",
+  "userid": "5f5b2398c0b90d0017828dd9",
+  "nome": "Daniela",
+  "cognome": "Parpinel",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599808646468_1599808646466.png",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "cose di famiglia",
+  "mail1": "danielaparpinel@yahoo.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f23cbfbb10000171df8de"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5abeaec0b90d0017828dd1",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5abeaec0b90d0017828dd1",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "Fegre",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600288518175_1600288518174.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Clienti",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62331aebb8890017816a12"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Mindwere",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Cliente",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6454655e75fd00173e4a41"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5b2398c0b90d0017828dd9",
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5ab99ac0b90d0017828dcd",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5ab99ac0b90d0017828dcd",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "Irin ",
+  "userid": "5f5b2398c0b90d0017828dd9",
+  "nome": "Daniela",
+  "cognome": "Parpinel",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599808646468_1599808646466.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600410930653_1600410930651.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "gruppo di lavoro",
+  "mail1": "danielaparpinel@yahoo.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64fdb35e75fd00173e4a43"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5abeaec0b90d0017828dd1",
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5ab99ac0b90d0017828dcd",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5ab99ac0b90d0017828dcd",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "groupDemo",
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "groupDemo",
+  "mail1": "fabio.vianello@fegre.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65fe03aa58ff0017ed59a7"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5abeaec0b90d0017828dd1",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5abeaec0b90d0017828dd1",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "1 enterprise demo",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600519753072_1600519753071.png",
+  "tipologia": "true",
+  "groupType": "Enterprise",
+  "infoGruppo": "demo enterprise",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f66e2c358933b0017779c9f"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5abeaec0b90d0017828dd1",
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [
+    "5f5b2398c0b90d0017828dd9"
+  ],
+  "temporaryGroup": [
+    {
+      "userTemporary": "5f5ab99ac0b90d0017828dcd",
+      "stato": 0,
+      "background": "border-color:blue",
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png"
+    },
+    {
+      "userTemporary": "5f5b2398c0b90d0017828dd9",
+      "stato": 0,
+      "background": "border-color:darkgray",
+      "nome": "Daniela",
+      "cognome": "Parpinel",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599808646468_1599808646466.png"
+    }
+  ],
+  "useridGroup": [
+    {
+      "nome": "Fabio",
+      "cognome": "Vianello",
+      "userPartecipante": "5f5ab99ac0b90d0017828dcd",
+      "imageAccount": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "stato": 1
+    }
+  ],
+  "nomeGruppo": "Enterprise 2",
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600578348047_1600578348046.png",
+  "tipologia": "true",
+  "groupType": "Enterprise",
+  "infoGruppo": "enterprise 2",
+  "mail1": "fabio.vianello@fegre.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f68cb044f31530017432f0f"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Prestashop",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/camera.jpg",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Varie di Prestashop",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c7473d8cf3c00176fd34f"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f6c7467d8cf3c00176fd34e"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f6c7467d8cf3c00176fd34e",
+  "nome": "Bireshwar",
+  "cognome": "Goswami",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "bireshwar.goswami@gmail.com",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/logoFirstGroup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6cc165d8cf3c00176fd351"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f5ab99ac0b90d0017828dcd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "Informatica",
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+  "imageGroup": "https://wosnicprivate.s3.eu-central-1.amazonaws.com/folder/1600963004359_1600963004357.png",
+  "tipologia": "true",
+  "groupType": "Base",
+  "infoGruppo": "Codice",
+  "mail1": "fabio.vianello@irin.it",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6ce9e6d8cf3c00176fd354"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f6ce9e4d8cf3c00176fd352"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f6ce9e4d8cf3c00176fd352",
+  "nome": "Bireshwar",
+  "cognome": "Goswami",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "bireshwar1990@gmail.com",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/logoFirstGroup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f42c9bd6b4f0017e65eff"
+  },
+  "delete": false,
+  "uGroup": [
+    "5f6f42c8bd6b4f0017e65efd"
+  ],
+  "uGroupTemporary": [],
+  "temporaryGroup": [],
+  "useridGroup": [],
+  "nomeGruppo": "My Search Engine",
+  "userid": "5f6f42c8bd6b4f0017e65efd",
+  "nome": "Wosnic",
+  "cognome": "Wosnic",
+  "tipologia": "false",
+  "image": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+  "groupType": "Base",
+  "visibility": false,
+  "infoGruppo": "Personal Group",
+  "mail1": "fabio@wosnic.com",
+  "imageGroup": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/logoFirstGroup.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,821 @@
+[{
+  "_id": {
+    "$oid": "5f5b4262c0b90d0017828de3"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "tQR6fHQBzPqr0HzpZX0b",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f5b4262c0b90d0017828de4"
+      },
+      "title": "123456",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "tQR6fHQBzPqr0HzpZX0b",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5b4262c0b90d0017828de5"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "tQR6fHQBzPqr0HzpZX0b",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f5b4262c0b90d0017828de6"
+      },
+      "title": "Lorenzo Vincenzo",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "MQR3fHQBzPqr0HzpU3uk",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f606e0bb9038e0017ac78ba"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "NhWtkHQBzPqr0HzpcTb8",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f606e0bb9038e0017ac78bb"
+      },
+      "title": "San Gabriele Accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "NhWtkHQBzPqr0HzpcTb8",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f606e0bb9038e0017ac78bc"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "NhWtkHQBzPqr0HzpcTb8",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f606e0bb9038e0017ac78bd"
+      },
+      "title": "San Gabriele Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "1BWqkHQBzPqr0HzppDO0",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f606e2bb9038e0017ac78c4"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "1BWqkHQBzPqr0HzppDO0",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f606e2bb9038e0017ac78c5"
+      },
+      "title": "San Gabriele Accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "NhWtkHQBzPqr0HzpcTb8",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f606e2bb9038e0017ac78c2"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "1BWqkHQBzPqr0HzppDO0",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f606e2bb9038e0017ac78c3"
+      },
+      "title": "San Gabriele Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "1BWqkHQBzPqr0HzppDO0",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f60c3f6ba8b2d00178d75b8"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "JBb4kXQBzPqr0Hzp2Ed4",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f60c3f6ba8b2d00178d75b9"
+      },
+      "title": "Auto targa",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "JBb4kXQBzPqr0Hzp2Ed4",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f60c3f6ba8b2d00178d75ba"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "JBb4kXQBzPqr0Hzp2Ed4",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f60c3f6ba8b2d00178d75bb"
+      },
+      "title": "1234",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "uhbSkXQBzPqr0HzpxCfQ",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62977b8aeec200170450cc"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f62977b8aeec200170450cd"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6297b88aeec200170450d4"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "zBwbmXQBzPqr0HzpZCzE",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6297b88aeec200170450d5"
+      },
+      "title": "Sviluppo Wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "zBwbmXQBzPqr0HzpZCzE",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6297fb8aeec200170450dc"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6297fb8aeec200170450dd"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62981f8aeec200170450e4"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "zBwbmXQBzPqr0HzpZCzE",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f62981f8aeec200170450e5"
+      },
+      "title": "Sviluppo Wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "zBwbmXQBzPqr0HzpZCzE",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f629a05bf2b0900176a3fac"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f629a05bf2b0900176a3fad"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f629b8a098a110017eaa3f1"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f629b8a098a110017eaa3f2"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f629dd96113a800175b68c7"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f629dd96113a800175b68c8"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62a104271d0d0017ca32fb"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f62a104271d0d0017ca32fc"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62f4e52583b70017521286"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f62f4e52583b70017521287"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62f5d264f8cc0017ad2fd8"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "XQJvenQBzPqr0HzpRsnI",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f62f5d264f8cc0017ad2fd9"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63021bbe65c600176745b1"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "zBwbmXQBzPqr0HzpZCzE",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f63021bbe65c600176745b2"
+      },
+      "title": "Bug wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "XQJvenQBzPqr0HzpRsnI",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63021bbe65c600176745af"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "zBwbmXQBzPqr0HzpZCzE",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f63021bbe65c600176745b0"
+      },
+      "title": "Sviluppo Wosnic",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "zBwbmXQBzPqr0HzpZCzE",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63be1b69719e0017b5a326"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "PBGli3QBzPqr0HzpxwzX",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f63be1b69719e0017b5a327"
+      },
+      "title": "valentina beads Accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "PBGli3QBzPqr0HzpxwzX",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6853cb7fa3d800176f0712"
+  },
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "mSrxqXQBzPqr0HzptiCg",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6853cb7fa3d800176f0713"
+      },
+      "title": "testing ente 22",
+      "userid": "5f5abeaec0b90d0017828dd1",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+      "joinNodesSnippet": "mSrxqXQBzPqr0HzptiCg",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6853cb7fa3d800176f0716"
+  },
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "mSrxqXQBzPqr0HzptiCg",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6853cb7fa3d800176f0717"
+      },
+      "title": "peep",
+      "userid": "5f5abeaec0b90d0017828dd1",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+      "joinNodesSnippet": "bSc8pnQBzPqr0HzpjQ37",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6853cb7fa3d800176f0714"
+  },
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "mSrxqXQBzPqr0HzptiCg",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6853cb7fa3d800176f0715"
+      },
+      "title": "Personale",
+      "userid": "5f5abeaec0b90d0017828dd1",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "gidspnQBzPqr0HzpFTQU",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6853cb7fa3d800176f0718"
+  },
+  "userid": "5f5abeaec0b90d0017828dd1",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "mSrxqXQBzPqr0HzptiCg",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6853cb7fa3d800176f0719"
+      },
+      "title": "test",
+      "userid": "5f5abeaec0b90d0017828dd1",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/account.jpg",
+      "joinNodesSnippet": "Jir8qXQBzPqr0HzpDSma",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6afd89f9e0720017e99c41"
+  },
+  "userid": "5f5b2398c0b90d0017828dd9",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "DDfruXQBzPqr0HzpaFkD",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6afd89f9e0720017e99c42"
+      },
+      "title": "to do list",
+      "userid": "5f5b2398c0b90d0017828dd9",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599808646468_1599808646466.png",
+      "joinNodesSnippet": "DDfruXQBzPqr0HzpaFkD",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b0e12f9e0720017e99c49"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "lDcrunQBzPqr0HzpK40g",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6b0e12f9e0720017e99c4a"
+      },
+      "title": "Moretti walter work flow",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "lDcrunQBzPqr0HzpK40g",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b0e12f9e0720017e99c4b"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "lDcrunQBzPqr0HzpK40g",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6b0e12f9e0720017e99c4c"
+      },
+      "title": "Moretti Walter Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "mDf1uXQBzPqr0HzpymFC",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c520fd8cf3c00176fd332"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "dzsgv3QBzPqr0HzpZKiJ",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c520fd8cf3c00176fd333"
+      },
+      "title": "Ferdani Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "9Tsfv3QBzPqr0HzpwqdG",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c520fd8cf3c00176fd330"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "dzsgv3QBzPqr0HzpZKiJ",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c520fd8cf3c00176fd331"
+      },
+      "title": "Ferdani Work flow",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "dzsgv3QBzPqr0HzpZKiJ",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c520fd8cf3c00176fd334"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "dzsgv3QBzPqr0HzpZKiJ",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c520fd8cf3c00176fd335"
+      },
+      "title": "Ferdani accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "szsfv3QBzPqr0Hzpdafr",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c5223d8cf3c00176fd33c"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "9Tsfv3QBzPqr0HzpwqdG",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c5223d8cf3c00176fd33d"
+      },
+      "title": "Ferdani Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "9Tsfv3QBzPqr0HzpwqdG",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c5223d8cf3c00176fd340"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "9Tsfv3QBzPqr0HzpwqdG",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c5223d8cf3c00176fd341"
+      },
+      "title": "Ferdani accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "szsfv3QBzPqr0Hzpdafr",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c5223d8cf3c00176fd33e"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "9Tsfv3QBzPqr0HzpwqdG",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c5223d8cf3c00176fd33f"
+      },
+      "title": "Ferdani Work flow",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "dzsgv3QBzPqr0HzpZKiJ",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c522ed8cf3c00176fd34a"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "szsfv3QBzPqr0Hzpdafr",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c522ed8cf3c00176fd34b"
+      },
+      "title": "Ferdani Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "9Tsfv3QBzPqr0HzpwqdG",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c522ed8cf3c00176fd348"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "szsfv3QBzPqr0Hzpdafr",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c522ed8cf3c00176fd349"
+      },
+      "title": "Ferdani accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "szsfv3QBzPqr0Hzpdafr",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c522ed8cf3c00176fd34c"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "szsfv3QBzPqr0Hzpdafr",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6c522ed8cf3c00176fd34d"
+      },
+      "title": "Ferdani Work flow",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "dzsgv3QBzPqr0HzpZKiJ",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6df686ac31680017e56217"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "sECCxXQBzPqr0Hzpgu8k",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6df686ac31680017e56218"
+      },
+      "title": "Olio Raia Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "sECCxXQBzPqr0Hzpgu8k",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6df686ac31680017e56219"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "sECCxXQBzPqr0Hzpgu8k",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6df686ac31680017e5621a"
+      },
+      "title": "Olio Raia Accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "rUCAxXQBzPqr0HzpG-3u",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6df68aac31680017e5621f"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 1,
+  "joinNodesSnippetFather": "rUCAxXQBzPqr0HzpG-3u",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6df68aac31680017e56220"
+      },
+      "title": "Olio Raia Accessi",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "rUCAxXQBzPqr0HzpG-3u",
+      "mainNodes": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6df68aac31680017e56221"
+  },
+  "userid": "5f5ab99ac0b90d0017828dcd",
+  "mainMainNodes": 0,
+  "joinNodesSnippetFather": "rUCAxXQBzPqr0HzpG-3u",
+  "joinNodesRelation": [
+    {
+      "_id": {
+        "$oid": "5f6df68aac31680017e56222"
+      },
+      "title": "Olio Raia Team",
+      "userid": "5f5ab99ac0b90d0017828dcd",
+      "imageTitolare": "https://wosnic.s3.eu-central-1.amazonaws.com/folder/1599782631680_1599782631679.png",
+      "joinNodesSnippet": "sECCxXQBzPqr0Hzpgu8k",
+      "mainNodes": 0
+    }
+  ],
+  "__v": 0
+}]

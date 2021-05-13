@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-family: 'BlinkMacSystemFont', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  overflow: hidden; /* Prevents rubber-band scrolling of the whole "page" */
+  color: var(--color);
+  background-color: #fff; /* To cover OSes with no default background color */
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  background-color: #fff !important;
+}
+
+a {
+  color: var(--color-link) !important;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.12em;
+  font-weight: 600;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+  border: 1px solid hsla(0,0%,0%,.08);
+  border-width: 0 1px 1px 0;
+}
+th {
+  background-color: hsla(0,0%,50%,.06);
+}
+th,
+td {
+  text-align: center;
+  border: 1px solid hsla(0,0%,0%,.08);
+  border-width: 1px 0 0 1px;
+}
+
+svg {
+  fill: currentColor;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+}
+.content.is-shown {
+  visibility: visible;;
+  opacity: 1;
+}
+
+.wrapper{
+  width: 100%;
+}

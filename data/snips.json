@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "5f5b9ed0e23ae60017e56e69"
+  },
+  "name": "test 11",
+  "country": "Italy",
+  "__v": 0
+}]

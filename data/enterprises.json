@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "5f6b76d6ac813800172597f3"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5ab99ac0b90d0017828dcd",
+  "title": "qwe",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "izjHu3QBzPqr0Hzp2OHe",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b7722ac813800172597f4"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5ab99ac0b90d0017828dcd",
+  "title": "ewq",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "LjjIu3QBzPqr0HzpqeI-",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b7804ac813800172597f9"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5abeaec0b90d0017828dd1",
+  "title": "zap",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "dDjMu3QBzPqr0Hzpl-X8",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b788cac813800172597fa"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5abeaec0b90d0017828dd1",
+  "title": "zsh",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "9zjNu3QBzPqr0HzpROUZ",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b7a68ac813800172597fb"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5abeaec0b90d0017828dd1",
+  "title": "xsw",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "_zjUu3QBzPqr0Hzpheux",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b7bacac813800172597fc"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5ab99ac0b90d0017828dcd",
+  "title": "zaq",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "ZzjZu3QBzPqr0Hzp2PB7",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b7c97ac813800172597fd"
+  },
+  "dateToDay": {
+    "$date": "2020-09-23T16:21:51.661Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5abeaec0b90d0017828dd1",
+  "title": "asd",
+  "content": "",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "Kjjbu3QBzPqr0Hzp__LQ",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6c3f9dd8cf3c00176fd329"
+  },
+  "dateToDay": {
+    "$date": "2020-09-24T06:19:10.466Z"
+  },
+  "userid": [
+    "5f5ab99ac0b90d0017828dcd",
+    "5f5abeaec0b90d0017828dd1"
+  ],
+  "name": "undefined",
+  "surname": "undefined",
+  "useridPadre": "5f5ab99ac0b90d0017828dcd",
+  "title": "qaz 2",
+  "content": "<p><br></p>",
+  "show": false,
+  "idGruppo": "5f65fe03aa58ff0017ed59a7",
+  "groupName": "1 enterprise demo",
+  "nome": "Fabio",
+  "cognome": "Vianello",
+  "publicationState": "private",
+  "idsnippet": "0jjLu3QBzPqr0Hzp4OS8",
+  "useridPadreGroup": "5f5ab99ac0b90d0017828dcd",
+  "__v": 0
+}]
